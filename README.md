@@ -1,5 +1,8 @@
 <h1>Git 관리 방법</h1>
 <h2>Git 명령어</h2>
+1. github에 Repository 를 생성한다.<br>
+2. Repository (원격 저장소) 를 연결 한다.<br>
+3. add, commit, push를 한다.<br>
 
 <h3>$ git ini</h3>
 현재 폴더를 초기화 (셋업) 한다.
