@@ -3,7 +3,9 @@
 1. github에 Repository 를 생성한다.<br>
 2. Repository (원격 저장소) 를 연결 한다.<br>
 3. add, commit, push를 한다.<br><br>
----
+
+#
+
 <h2>기본 셋업</h2>
 <h3>$ git init</h3>
 현재 폴더를 초기화 (셋업) 한다.
